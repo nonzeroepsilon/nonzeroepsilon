@@ -1,13 +1,19 @@
+@font-face {
+  font-family: 'Computer Modern';
+  src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf') format('opentype');
+}
+
 html {
-  font-family: math,'Latin Modern Roman',-apple-system, Helvetica, arial, sans-serif;
+  font-family: 'Computer Modern', math, 'Latin Modern Roman', -apple-system, Helvetica, Arial, sans-serif;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.5em;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 }
+
 body {
-  font-family: math,'Latin Modern Roman', -apple-system, Helvetica, arial, sans-serif;
+  font-family: 'Computer Modern', math, 'Latin Modern Roman', -apple-system, Helvetica, Arial, sans-serif;
   margin: 0;
 }
 body .content {

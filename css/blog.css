@@ -31,7 +31,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: math,'Latin Modern Roman', -apple-system, Helvetica, arial, sans-serif;
+  font-family: 'Computer Modern', math,'Latin Modern Roman', -apple-system, Helvetica, arial, sans-serif;
 }
 h1 {
   line-height: 1.2em;
@@ -76,7 +76,7 @@ h1 {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 .front-matter h4 {
-  font-family: math,'Latin Modern Roman', -apple-system, Helvetica, arial, sans-serif;
+  font-family: 'Computer Modern', math,'Latin Modern Roman', -apple-system, Helvetica, arial, sans-serif;
 }
 .front-matter .bylines .byline {
   margin-right: 20px;
@@ -85,7 +85,7 @@ h1 {
 .front-matter .bylines .byline h3,
 .front-matter .bylines .byline p {
   margin: 0;
-  font-family: math,'Latin Modern Roman', -apple-system, Helvetica, arial, sans-serif;
+  font-family: 'Computer Modern', math,'Latin Modern Roman', -apple-system, Helvetica, arial, sans-serif;
 }
 .front-matter .bylines .byline h3 {
   font-size: 9px;
